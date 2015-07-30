@@ -1,2 +1,2 @@
-# ignore_for_slack
+# Ignore for Slack
 Javascript to ignore a user in Slack (in-browser only)
